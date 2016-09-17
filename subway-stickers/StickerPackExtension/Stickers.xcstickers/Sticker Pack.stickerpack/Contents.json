@@ -1,0 +1,80 @@
+{
+  "stickers" : [
+    {
+      "filename" : "1 Train.sticker"
+    },
+    {
+      "filename" : "2 Train.sticker"
+    },
+    {
+      "filename" : "3 Train.sticker"
+    },
+    {
+      "filename" : "4 Train.sticker"
+    },
+    {
+      "filename" : "5 Train.sticker"
+    },
+    {
+      "filename" : "6 Train.sticker"
+    },
+    {
+      "filename" : "A Train.sticker"
+    },
+    {
+      "filename" : "C Train.sticker"
+    },
+    {
+      "filename" : "E Train.sticker"
+    },
+    {
+      "filename" : "B Train.sticker"
+    },
+    {
+      "filename" : "D Train.sticker"
+    },
+    {
+      "filename" : "F Train.sticker"
+    },
+    {
+      "filename" : "M Train.sticker"
+    },
+    {
+      "filename" : "7 Train.sticker"
+    },
+    {
+      "filename" : "G Train.sticker"
+    },
+    {
+      "filename" : "J Train.sticker"
+    },
+    {
+      "filename" : "Z Train.sticker"
+    },
+    {
+      "filename" : "L Train.sticker"
+    },
+    {
+      "filename" : "N Train.sticker"
+    },
+    {
+      "filename" : "Q Train.sticker"
+    },
+    {
+      "filename" : "R Train.sticker"
+    },
+    {
+      "filename" : "Shuttle Train.sticker"
+    },
+    {
+      "filename" : "2nd Avenue Subway.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "small"
+  }
+}
